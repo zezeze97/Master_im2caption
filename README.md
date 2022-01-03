@@ -260,7 +260,7 @@ unzip chinese_caption.zip
 <!-- Pretrain Model -->
 
 ## Pretrained Model
-coming soon...
+[pretrained_checkpoints](https://disk.pku.edu.cn:443/link/61820D39AD342C70B08450CA6988F65C),解到[expr_results](expr_result)相应文件夹下即可。
 
 
 
