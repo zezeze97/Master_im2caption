@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=0,1 PORT=29500 ./tools/dist_train.sh ./configs/textrecog/master/im2latex_transformer.py /home/zhangzr/Master-im2caption/expr_result/im2latex_transformer/ 2
