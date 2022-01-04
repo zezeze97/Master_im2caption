@@ -233,7 +233,7 @@ unzip chinese_caption.zip
 
 ### 计算BLEU得分
 
-1. 计算验证集上的BLEU得分，注意需要修改[脚本](im2caption/compute_score.py)中的prediction_file和gt_file
+1. 计算验证集上的BLEU得分，注意需要修改[im2caption/compute_score.py](im2caption/compute_score.py)中的prediction_file和gt_file
    ```shell
    python im2caption/compute_score.py
    ```
